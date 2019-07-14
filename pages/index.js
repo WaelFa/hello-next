@@ -5,7 +5,7 @@ const Index = () => {
     return (
         <div>
             <Link href="/about">
-                <a> bout page</a>
+                <a> about page</a>
             </Link>
             <p>Hello Next.js</p>
         </div>)

@@ -1183,7 +1183,7 @@ var Index = function Index() {
       lineNumber: 8
     },
     __self: this
-  }, " bout page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, " about page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
